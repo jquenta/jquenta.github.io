@@ -6,7 +6,7 @@ title: About Me
 # About Me
 
 <div class="about-container"> 
-  <div class="about-text">
+  <div class="about-text" markdown="1">
   Hi! I'm Johann Quenta Raygada, a PhD Student in Theoretical Particle Physics at [SISSA](https://www.sissa.it/tpp/). [...]
 
   You can contact me by email at jquentar(at)sissa(dot)it.
