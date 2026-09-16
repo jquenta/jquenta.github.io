@@ -19,11 +19,24 @@
   <!-- MathJax -->
   <script>
     MathJax = {
+      loader: {
+        load: ['[tex]/amscd']
+        },
+      
       tex: {
         inlineMath: [['$', '$'], ['\\(', '\\)']],
         displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        
         packages: {
           '[+]': ['amscd']
+        },
+
+        macros: {
+          R: ["\\mathbb{R}"],
+          Z: ["\\mathbb{Z}"],
+          Q: ["\\mathbb{Q}"],
+          C: ["\\mathbb{C}"],
+          N: ["\\mathbb{N}"],
         }
       }
     };
