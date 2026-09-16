@@ -1,13 +1,9 @@
-title: "John Doe" 
-description: "Personal website and mathematics blog" 
+title: "Johann Quenta" 
+description: "My personal website" 
 theme: minima
 
-author: 
-  name: "John Doe" 
-  email: "john.doe@example.com" 
-
-show_downloads: false
-show_excerpts: true
+author: "Johann Quenta" 
+email: "jquentar@sissa.it" 
 
 header_pages:
   - blog.md
