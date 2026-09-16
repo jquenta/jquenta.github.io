@@ -1,10 +1,15 @@
 title: "John Doe" 
 description: "Personal website and mathematics blog" 
-theme: jekyll-theme-minimal 
+theme: minima
 
 author: 
   name: "John Doe" 
   email: "john.doe@example.com" 
 
-show_downloads: false 
+show_downloads: false
+show_excerpts: true
+
+header_pages:
+  - blog.md
+  
 markdown: kramdown
