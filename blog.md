@@ -12,7 +12,5 @@ Here you can find my notes and articles about ...
 
 <small>{{ post.date | date: "%d %B %Y" }}</small>
 
-{{ post.excerpt }}
-
 {% endfor %}
 
