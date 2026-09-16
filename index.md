@@ -13,7 +13,7 @@ title: About Me
 
   </div> 
   <div class="about-photo"> 
-    <img src="{{ '/assets/images/me.jpg' | relative_url }}" alt="John Doe"> 
+    <img src="{{ '/assets/images/photosissa.jfif' | relative_url }}" alt="Me"> 
   </div> 
 </div>
 
