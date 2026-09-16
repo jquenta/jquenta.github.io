@@ -1,0 +1,10 @@
+title: "John Doe" 
+description: "Personal website and mathematics blog" 
+theme: jekyll-theme-minimal 
+
+author: 
+  name: "John Doe" 
+  email: "john.doe@example.com" 
+
+show_downloads: false 
+markdown: kramdown
