@@ -6,6 +6,10 @@ author: "Johann Quenta"
 email: "jquentar@sissa.it" 
 
 header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - cv.md
   - blog.md
   
 markdown: kramdown
