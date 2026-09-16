@@ -3,7 +3,6 @@ description: "My personal website"
 theme: minima
 
 author: "Johann Quenta" 
-email: "jquentar@sissa.it" 
 
 header_pages:
   - index.md
