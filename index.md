@@ -3,28 +3,13 @@ layout: default
 title: About Me
 ---
 
-# John Doe
+# About Me
 
-I am a theoretical physicist interested in ...
+Hi! I'm Johann Quenta Raygada, a PhD Student in Theoretical Particle Physics at [SISSA](https://www.sissa.it/tpp/). [...]
 
-## Research
-
-My research interests include:
-
-- ...
-
-## Blog
-
-I write occasional notes about mathematics, physics, and topics related to my research.
-
-You can find my posts in the [blog](blog) section.
-
-## Contact
-
-Contact me at ...
+You can contact me by email at jquentar(at)sissa(dot)it.
 
 ## Links
 
-- [GitHub](https://github.com/)
-- [Google Scholar](https://scholar.google.com/)
-- [arXiv](https://arxiv.org/)
+- [iNSPIRE HEP](https://inspirehep.net/authors/3092430)
+- [arXiv](https://arxiv.org/search/hep-th?searchtype=author&query=Quenta-Raygada,+J)
