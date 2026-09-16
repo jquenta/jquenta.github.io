@@ -21,7 +21,7 @@ title: About Me
   </div> 
 </div>
 
-## Check out my research papers in:
+## Check out my research papers:
 
 - [iNSPIRE HEP](https://inspirehep.net/authors/3092430)
 - [arXiv](https://arxiv.org/search/hep-th?searchtype=author&query=Quenta-Raygada,+J)
