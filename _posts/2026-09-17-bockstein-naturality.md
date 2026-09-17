@@ -59,7 +59,7 @@ $$
 \begin{CD}
     1 @>>> \Z @>\cdot 2>> \Z @>\text{mod 2}>> \Z_2 @>>> 1 \\
       @. @| @V\cdot\frac{1}{2}VV @V{(-1)^{\bullet}}VV \\
-    1 @>>> \Z @>\iota>> \R @>e^{2\pi i\bullet)}>> U(1) @>>> 1.
+    1 @>>> \Z @>\iota>> \R @>e^{2\pi i\bullet}>> U(1) @>>> 1.
 \end{CD}
 $$
 
