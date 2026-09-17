@@ -13,7 +13,7 @@ title: About Me
   My current research lies in the broad area of **topological aspects of quantum field theory**. From the physics side, I'm interested in the interplay between topology and symmetries, a topic that has developed rapidly in recent years. From the mathematics side, I'm interested in the structure of topological invariants obtained from TQFTs.
 
 
-  You can contact me by email at *jquentar (at) sissa (dot) it*.
+  You can contact me by email at `jquentar (at) sissa (dot) it`.
 
   </div> 
   <div class="about-photo"> 
