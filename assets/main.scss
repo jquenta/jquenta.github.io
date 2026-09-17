@@ -10,6 +10,7 @@
   grid-template-columns: 2fr 1fr;
   gap: 40px;
   align-items: start;
+  margin-bottom: 30px;
 }
 
 .about-text {
@@ -24,7 +25,6 @@
   max-width: 100%;
   height: auto;
   border-radius: 8px;
-  margin-bottom: 30px;
 }
 
 /* On small screens stack the columns */
