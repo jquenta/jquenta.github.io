@@ -51,7 +51,7 @@ Of course, the theorem works for cohomology of cochain complexes as well. For th
 
 Although unsurprising if you know the result above, I found interesting that there is also a relation between $\beta$ and the Bockstein $\mathrm{Bock}$ associated to the SES
 
-$$ 1 \to \Z \xrightarrow{\iota} \R \xrightarrow{\scriptsize{e^{2\pi i \bullet}}} U(1) \to 1, $$
+$$ 1 \to \Z \xrightarrow{\iota} \R \xrightarrow{e^{2\pi i \bullet}} U(1) \to 1, $$
 
 since one has the following commutative diagram:
 
@@ -59,7 +59,7 @@ $$
 \begin{CD}
     1 @>>> \Z @>\cdot 2>> \Z @>\text{mod 2}>> \Z_2 @>>> 1 \\
       @. @| @V\cdot\frac{1}{2}VV @V{(-1)^{\bullet}}VV \\
-    1 @>>> \Z @>\iota>> \R @>{\scriptsize{\exp(2\pi i\bullet)}}>> U(1) @>>> 1.
+    1 @>>> \Z @>\iota>> \R @>e^{2\pi i\bullet)}>> U(1) @>>> 1.
 \end{CD}
 $$
 
@@ -69,7 +69,7 @@ $$
 \begin{CD}
     H^n(-, \ \Z_2) @>\beta>> H^{n+1}(-, \ \Z) \\
     @V{(-1)^\bullet}VV @| \\
-    H^n(-, \ U(1)) @>{\scriptsize{\text{Bock}}}>> H^{n+1}(-, \ \Z),
+    H^n(-, \ U(1)) @>\text{Bock}>> H^{n+1}(-, \ \Z),
 \end{CD}
 $$
 
