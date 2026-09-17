@@ -63,7 +63,7 @@ $$
 \begin{CD}
     H^n(-, \ \Z_2) @>\beta>> H^{n+1}(-, \ \Z) \\
     @V{(-1)^\bullet}VV @| \\
-    H^n(-, \ U(1)) @>\text{\scriptsize{Bock}}>> H^{n+1}(-, \ \Z),
+    H^n(-, \ U(1)) @>\text{\scriptsize Bock}>> H^{n+1}(-, \ \Z),
 \end{CD}
 $$
 
