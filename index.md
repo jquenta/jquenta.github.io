@@ -10,7 +10,7 @@ title: About Me
     
   Hi! I'm **Johann Quenta Raygada**, a PhD Student in Theoretical Particle Physics at [SISSA](https://www.sissa.it/tpp/), supervised by Pavel Putrov at [ICTP](https://www.ictp.it/hecap). I'm originally from Peru, where I did my Bachelor's degree in Physics at the *Pontificia Universidad Católica del Perú*.
 
-  My current research lies in the broad area of **topological aspects of quantum field theory**. From the physics side, I'm interested in the interplay between topology and symmetries, a topic that has developed rapidly in recent years. From the mathematics side, I'm interested in studying the structure of topological invariants obtained from TQFTs.
+  My current research lies in the broad area of **topological aspects of quantum field theory**. From the physics side, I'm interested in the interplay between topology and symmetries, a topic that has developed rapidly in recent years. From the mathematics side, I'm interested in the structure of topological invariants obtained from TQFTs.
 
 
   You can contact me by email at *jquentar (at) sissa (dot) it*.
