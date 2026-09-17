@@ -38,14 +38,16 @@
   }
 }
 
+/* Make wide display equations scroll horizontally on small screens */
+
 @media screen and (max-width: 600px) {
   mjx-container[display="true"] {
-    max-width: 100%;
-    overflow-x: auto;
-    overflow-y: hidden;
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 5px 0;
   }
+}
 
-  mjx-container[display="true"] > svg {
-    max-width: none;
-  }
 }
