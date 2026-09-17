@@ -10,8 +10,7 @@ Each post here serves as a personal note where I discuss a certain topic I found
 ## Posts
 
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url | relative_url }})
-
+### [{{ post.title }}]({{ post.url | relative_url }})
 <small>{{ post.date | date: "%d %B %Y" }}</small>
 
 {% endfor %}
