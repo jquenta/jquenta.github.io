@@ -17,6 +17,7 @@ which is also known as the first Steenrod square $\mathrm{Sq}^1: H^n(-, \Z_2) \t
 
 ---  
 
+<br>
 
 It turns out that relations between Bocksteins like the above follow more generally from the **naturality of the Bockstein homomorphisms**, a theorem in homological algebra. Namely, if one has a morphism between SESs of chain complexes, i.e. a commutative diagram
 
@@ -42,6 +43,7 @@ Of course, the theorem works for cohomology of cochain complexes as well. For th
 
 ---  
 
+<br>
 
 Although unsurprising if you know the result above, I found interesting that there is also a relation between $\beta$ and the Bockstein $\mathrm{Bock}$ associated to the SES
 
@@ -63,7 +65,7 @@ $$
 \begin{CD}
     H^n(-, \ \Z_2) @>\beta>> H^{n+1}(-, \ \Z) \\
     @V{(-1)^\bullet}VV @| \\
-    H^n(-, \ U(1)) @>\text{\scriptsize Bock}>> H^{n+1}(-, \ \Z),
+    H^n(-, \ U(1)) @>\text{Bock}>> H^{n+1}(-, \ \Z),
 \end{CD}
 $$
 
