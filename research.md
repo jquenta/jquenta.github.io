@@ -26,8 +26,6 @@ title: Research
 <div class="research-item">
   
   <div class="research-text" markdown="1">
-  
-  ## Paper 2
 
   Paper 2 text 
 
