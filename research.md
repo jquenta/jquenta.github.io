@@ -20,7 +20,6 @@ title: Research
   
 </div>
 
-
 <div class="research-item">
   <div class="research-text" markdown="1">
   
