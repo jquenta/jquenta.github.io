@@ -5,13 +5,15 @@ title: Research
 
 # Research
 
-## Paper 1
+## Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories
 
 <div class="research-item">
   
   <div class="research-text" markdown="1">
   
-  Paper 1 text 
+  In this paper, we conjectured a relation between the asymptotic expansion of the $SU(2)_k$ Chern-Simons partition function (i.e. as the level $k \to \infty$) and the partition functions of discrete gauge theories with gauge groups $SL(2,\F_q)$.
+
+  *Joint work with Pavel Putrov and Thomas Nicosanti.*
 
   </div>
   
