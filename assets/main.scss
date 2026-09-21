@@ -49,3 +49,36 @@
   padding: 5px 0;
   }
 }
+
+.research-item {
+display: grid;
+grid-template-columns: 2fr 1fr;
+gap: 40px;
+align-items: start;
+margin-bottom: 50px;
+}
+
+.research-text {
+min-width: 0;
+}
+
+.research-image {
+text-align: center;
+}
+
+.research-image img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+
+@media screen and (max-width: 600px) {
+.research-item {
+grid-template-columns: 1fr;
+}
+
+.research-image {
+order: 1;
+}
+}
+
