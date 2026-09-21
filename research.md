@@ -6,6 +6,7 @@ title: Research
 # Research
 
 <div class="research-item">
+  
   <div class="research-text" markdown="1">
   
   ## Paper 1
@@ -21,6 +22,7 @@ title: Research
 </div>
 
 <div class="research-item">
+  
   <div class="research-text" markdown="1">
   
   ## Paper 2
