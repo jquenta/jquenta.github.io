@@ -5,12 +5,12 @@ title: Research
 
 # Research
 
+## Paper 1
+
 <div class="research-item">
   
   <div class="research-text" markdown="1">
   
-  ## Paper 1
-
   Paper 1 text 
 
   </div>
@@ -20,6 +20,8 @@ title: Research
   </div>
   
 </div>
+
+## Paper 2
 
 <div class="research-item">
   
