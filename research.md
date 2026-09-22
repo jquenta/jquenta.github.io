@@ -11,7 +11,7 @@ title: Research
   
   <div class="research-text" markdown="1">
   
-  In this paper we conjectured a relation between the asymptotic expansion of the $\mathrm{SU}(2)_k$ Chern-Simons partition function (i.e. in the limit $k \to \infty$) and the partition functions of discrete gauge theories with gauge groups $\mathrm{SL}(2,\F_q)$, twisted by certain topological actions in $H^3(B\mathrm{SL(2,\F_q)}, \mathrm{U}(1))$. To be more precise, we find that these discrete gauge theories somehow know about the values of the Chern-Simons action on flat connections, as well as their associated leading powers in $k$. Our conjecture is supported by a variety of examples, where analytic computations were possible after determining the modular data of the $\mathrm{SL}(2,\F_q)$ gauge theories. 
+  In this paper we conjectured a relation between the asymptotic expansion of the $\mathrm{SU}(2)_k$ Chern-Simons partition function (i.e. in the limit $k \to \infty$) and the partition functions of discrete gauge theories with gauge groups $\mathrm{SL}(2,\F_q)$, twisted by certain topological actions. To be more precise, we find that these discrete gauge theories *know* about the values of the Chern-Simons action on $\mathrm{SU}(2)$ flat connections, as well as their associated leading powers in $k$ in the asymptotic expansion. Our conjecture is supported by a variety of examples, where analytic computations were possible after determining the modular data of the $\mathrm{SL}(2,\F_q)$ gauge theories. 
 
   *Joint work with Pavel Putrov and Thomas Nicosanti.*
 
