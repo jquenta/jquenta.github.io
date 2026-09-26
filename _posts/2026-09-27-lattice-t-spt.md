@@ -47,7 +47,7 @@ In terms of the triangulation, this means we should color the 1-cycle correspond
 
 <img src="{{ '/assets/images/lattice-t-spt/rp2triang.png' | relative_url }}"
      alt="RP2"
-     width="200">
+     width="350">
 
 </div>
 
@@ -62,7 +62,7 @@ $$
 where the product runs over all (ordered) triangles $\Delta$ of our triangulation.[^1] If we do the work, we find 
 
 $$
-Z(\RP^2) = ... = -1,
+Z(\RP^2) = (-1)^{1 \cdot 0} (-1)^{0 \cdot 0} (-1)^{1 \cdot 1} (-1)^{0 \cdot 1} = -1,
 $$
 
 just as we expected.
@@ -76,12 +76,18 @@ just as we expected.
 
 Let's also, just for fun, do the same computation for the Klein bottle $K$. Even though this manifold is non-orientable, $w_1^2$ evaluates to zero because $K$ is in the same cobordism class as the empty manifold. The Klein bottle has 2 non-trivial cycles: one of infinite order, and another one of order 2. The Poincaré dual of $w_1$ happens to be the latter. So that said, using a similar triangulation as for $\RP^2$ but with the correct edge identifications,
 
-[pic]
+<div style="text-align: center;">
+
+<img src="{{ '/assets/images/lattice-t-spt/kleintriang.png' | relative_url }}"
+     alt="Klein Bottle"
+     width="350">
+
+</div>
 
 we happily find that
 
 $$
-Z(K) = ... = +1.
+Z(K) = (-1)^{0 \cdot 0}(-1)^{0 \cdot 1}(-1)^{1 \cdot 0}(-1)^{0 \cdot 1} = +1.
 $$
 
 <br>
