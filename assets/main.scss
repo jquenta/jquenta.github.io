@@ -97,10 +97,6 @@ order: 1;
   border-radius: 5px;
 }
 
-.centered-box p:first-child {
-  margin-top: 0;
-}
-
-.centered-box p:last-child {
-  margin-bottom: 0;
+.centered-box p {
+  margin: 0 !important;
 }
