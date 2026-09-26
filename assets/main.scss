@@ -96,3 +96,11 @@ order: 1;
   background-color: #f0f0f0;
   border-radius: 5px;
 }
+
+.centered-box p:first-child {
+  margin-top: 0;
+}
+
+.centered-box p:last-child {
+  margin-bottom: 0;
+}
