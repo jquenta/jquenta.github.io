@@ -36,7 +36,9 @@ $$
 In our case, we have a fixed assignment of colors given by $w_1$ (contrary to the case of a gauge theory, where one sums over all possible assignments). How do we know how to color the edges? The following statement comes to the rescue: 
 
 <div class="centered-box" markdown="1">
+  
 A codimension 1-submanifold $Y$ of $X$ is Poincaré dual to $w_1(X)$ if and only if cutting $X$ along $Y$ divides it into two pieces which are themselves orientable.
+
 </div>
 
 In terms of the triangulation, this means we should color the 1-cycle corresponding to $\mathrm{PD}[w_1]$ by $1 \in \Z_2$, and everything else by $0$. As an example, let's take $X = \RP^2$ with the following triangulation, which I need for my purposes: 
