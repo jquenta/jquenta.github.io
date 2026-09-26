@@ -92,11 +92,10 @@ order: 1;
   max-width: 700px;
   margin: 20px auto;
   padding: 15px 20px;
-  text-align: center;
   background-color: #f0f0f0;
   border-radius: 5px;
 }
 
 .centered-box p {
-  margin: 0 !important;
+  text-align: center;
 }
