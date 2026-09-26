@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The unique 2d time-reversal SPT, but on a lattice"
+title: "The (only) 2d time-reversal SPT, but on a lattice"
 date: 2026-09-26 00:00:00 +0200
 categories: physics
 ---
@@ -36,7 +36,7 @@ $$
 In our case, we have a fixed assignment of colors given by $w_1$ (contrary to the case of a gauge theory, where one sums over all possible assignments). How do we know how to color the edges? The following statement comes to the rescue: 
 
 <div class="centered-box" markdown="1">
-  
+
 A codimension 1-submanifold $Y$ of $X$ is Poincaré dual to $w_1(X)$ if and only if cutting $X$ along $Y$ divides it into two pieces which are themselves orientable.
 
 </div>
@@ -53,7 +53,7 @@ $$
 (-1)^{\int_X w_1^2} = \prod_{\Delta[012]} (-1)^{g_{01}g_{12}},
 $$
 
-where the product runs over all (ordered) triangles $\Delta$ of our triangulation. If we do the work, we find 
+where the product runs over all (ordered) triangles $\Delta$ of our triangulation.[^1] If we do the work, we find 
 
 $$
 Z(\RP^2) = ... = -1,
@@ -78,7 +78,7 @@ $$
 Z(K) = ... = +1.
 $$
 
-
+[^1]: In general there's also a dependence on the orientation of the triangle, which in our case is irrelevant as we're using $\Z_2$ coefficients.
 
 
 
