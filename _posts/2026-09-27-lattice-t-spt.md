@@ -78,6 +78,8 @@ $$
 Z(K) = ... = +1.
 $$
 
+<br>
+
 ### Footnotes
 
 [^1]: In general there's also a dependence on the orientation of the triangle, which in our case is irrelevant as we're using $\Z_2$ coefficients.
