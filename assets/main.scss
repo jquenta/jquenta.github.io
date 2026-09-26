@@ -82,3 +82,9 @@ order: 1;
 }
 }
 
+@media screen and (min-width: 601px) {
+  .page-content p {
+    text-align: justify;
+  }
+}
+
