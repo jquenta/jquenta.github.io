@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: "The unique 2d time-reversal SPT, but on a lattice"
 date: 2026-09-26 00:00:00 +0200
 categories: physics
 ---
@@ -35,7 +35,7 @@ $$
 
 In our case, we have a fixed assignment of colors given by $w_1$ (contrary to the case of a gauge theory, where one sums over all possible assignments). How do we know how to color the edges? The following statement comes to the rescue: 
 
-<div class="centered" markdown="1">
+<div class="centered-box" markdown="1">
 A codimension 1-submanifold $Y$ of $X$ is Poincaré dual to $w_1(X)$ if and only if cutting $X$ along $Y$ divides it into two pieces which are themselves orientable.
 </div>
 
@@ -59,9 +59,14 @@ $$
 
 just as we expected.
 
+<br>
+
 ---
 
-Let's also, just for fun, do the same computation for the Klein bottle $K$. Even though this manifold is non-orientable, $w_1^2$ evaluates to zero because $K$ is in the same cobordism class as the empty manifold. The Klein bottle has 2 non-trivial cycles: one of infinite order, and another one of order 2. The Poincaré dual of $w_1$ happens to be the first one. So that said, using a similar triangulation as for $\RP^2$ but with the correct edge identifications.
+<br>
+
+
+Let's also, just for fun, do the same computation for the Klein bottle $K$. Even though this manifold is non-orientable, $w_1^2$ evaluates to zero because $K$ is in the same cobordism class as the empty manifold. The Klein bottle has 2 non-trivial cycles: one of infinite order, and another one of order 2. The Poincaré dual of $w_1$ happens to be the first one. So that said, using a similar triangulation as for $\RP^2$ but with the correct edge identifications,
 
 [pic]
 
