@@ -47,7 +47,7 @@ In terms of the triangulation, this means we should color the 1-cycle correspond
 
 <img src="{{ '/assets/images/lattice-t-spt/rp2triang.png' | relative_url }}"
      alt="RP2"
-     width="350">
+     width="270">
 
 </div>
 
@@ -80,7 +80,7 @@ Let's also, just for fun, do the same computation for the Klein bottle $K$. Even
 
 <img src="{{ '/assets/images/lattice-t-spt/kleintriang.png' | relative_url }}"
      alt="Klein Bottle"
-     width="350">
+     width="270">
 
 </div>
 
