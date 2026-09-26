@@ -87,3 +87,15 @@ order: 1;
     text-align: justify;
   }
 }
+
+.centered-box {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+.centered-box p {
+  margin: 0 !important;
+}
