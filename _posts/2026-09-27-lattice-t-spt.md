@@ -43,13 +43,10 @@ A codimension 1-submanifold $Y$ of $X$ is Poincaré dual to $w_1(X)$ if and only
 
 In terms of the triangulation, this means we should color the 1-cycle corresponding to $\mathrm{PD}[w_1]$ by $1 \in \Z_2$, and everything else by $0$. As an example, let's take $X = \RP^2$ with the following triangulation, which I need for my purposes: 
 
-<div style="text-align: center;">
-
-<img src="{{ '/assets/images/lattice-t-spt/rp2triang.png' | relative_url }}"
+<img class="post-image"
+     src="{{ '/assets/images/lattice-t-spt/rp2triang.png' | relative_url }}"
      alt="RP2"
-     width="270">
-
-</div>
+     style="width: 270px;">
 
 In this case, the cycle $\mathrm{PD}[w_1]$ is also the only non-trivial cycle of $\RP^2$, $a - b$. So we can color, for example, $a$ by 1, $b$ by 0, and take appropriate colors for all other edges so as to satisfy Gauss' law. 
 
