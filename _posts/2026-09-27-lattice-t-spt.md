@@ -27,7 +27,7 @@ where the integral really means evaluation of $w_1^2$ on the $\Z_2$ fundamental 
 
 At some point, I wanted to know how to compute the partition function $Z(X)$ from a triangulation of $X$. This is easy to do if we interpret $w_1$ as a background gauge field — indeed, this class defines a $\Z_2$-principal bundle on $X$: its *orientation bundle*. Remember that $\Z_2$-principal bundles are classified by homotopy classes of maps $X \to B\Z_2$, and $w_1$ fixes such a map via the isomorphism $[X, B\Z_2] \cong H^1(X,\Z_2)$.
 
-This tells us that, just as when one defines a discrete gauge theory on a triangulated manifold, we can think of the edges $\ell_{ij}$ of our triangulation as being colored by elements $g_{ij}$ of $\Z_2$ obeying Gauss' law on triangles $\Delta_{ijk}$: 
+This tells us that, just as when one defines a discrete gauge theory on a triangulated manifold, we can think of the edges $\ell_{ij}$ of our triangulation as being colored by elements $g_{ij}$ of $\Z_2$ obeying Gauss' law on triangles $\Delta[ijk]$: 
 
 $$
 g_{ij} + g_{jk} = g_{ik}.
