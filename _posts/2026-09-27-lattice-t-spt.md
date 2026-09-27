@@ -73,13 +73,10 @@ just as we expected.
 
 Let's also, just for fun, do the same computation for the Klein bottle $K$. Even though this manifold is non-orientable, $w_1^2$ evaluates to zero because $K$ is in the same cobordism class as the empty manifold. The Klein bottle has 2 non-trivial cycles: one of infinite order, and another one of order 2. The Poincaré dual of $w_1$ happens to be the latter. So that said, using a similar triangulation as for $\RP^2$ but with the correct edge identifications,
 
-<div style="text-align: center;">
-
-<img src="{{ '/assets/images/lattice-t-spt/kleintriang.png' | relative_url }}"
-     alt="Klein Bottle"
-     width="270">
-
-</div>
+<img class="post-image"
+     src="{{ '/assets/images/lattice-t-spt/kleintriang.png' | relative_url }}"
+     alt="Klein"
+     style="width: 270px;">
 
 we happily find that
 
