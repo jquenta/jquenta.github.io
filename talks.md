@@ -3,7 +3,7 @@ layout: default
 title: Talks
 ---
 
-# Talks and Poster Presentations
+# Talks / Poster Presentations
 
 - **On continuous avatars of certain finite group gauge theories**
 [Global Categorical Symmetries 2026](https://indico.math.cnrs.fr/event/14721/) (IHP, Paris), 22/06/26.
