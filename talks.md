@@ -6,7 +6,7 @@ title: Talks
 # Talks / Poster Presentations
 
 - **On continuous avatars of certain finite group gauge theories**
-[Global Categorical Symmetries 2026](https://indico.math.cnrs.fr/event/14721/) (IHP, Paris), 22/06/26.
+    [Global Categorical Symmetries 2026](https://indico.math.cnrs.fr/event/14721/) (IHP, Paris), 22/06/26.
 
 - **Topological order in the lattice: the Kitaev quantum double**
 [WIP Student Journal Club](https://www.sissa.it/tpp/activity/journalclub.php.html) (SISSA, Trieste), 12/02/26.
