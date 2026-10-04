@@ -5,7 +5,11 @@ title: Research
 
 # Research
 
-## Research highlights
+## Overview
+
+My research work falls into the general theme of *topological aspects of quantum field theory*. On one side, there has been an increased interest to understand the mathematical structure formed by topological operators in a QFT, the latter now understood as the *generalized symmetries* of a theory. On the other side, TQFTs naturally appear as low-energy descriptions of gapped quantum systems (both in the continuum or the lattice) — this calls for a thorough study of their mathematical properties, as they become important in applications to high-energy and condensed-matter physics. 
+
+## Research Highlights
 
 ### Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories
 
