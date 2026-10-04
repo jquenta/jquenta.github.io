@@ -41,7 +41,7 @@ A codimension 1-submanifold $Y$ of $X$ is Poincaré dual to $w_1(X)$ if and only
 
 </div>
 
-In terms of the triangulation, this means we should color the 1-cycle corresponding to $\mathrm{PD}[w_1]$ by $1 \in \Z_2$, and everything else by $0$. As an example, let's take $X = \RP^2$ with the following triangulation, which I need for my purposes: 
+In terms of the triangulation, this means we should color the 1-cycle corresponding to $\mathrm{PD}[w_1]$ by $1 \in \Z_2$. As an example, let's take $X = \RP^2$ with the following triangulation, which I need for my purposes: 
 
 <img class="post-image"
      src="{{ '/assets/images/lattice-t-spt/rp2triang.png' | relative_url }}"
