@@ -5,10 +5,10 @@ title: Talks
 
 # Upcoming Talks
 
--*TBA*<br>
+- *TBA*<br>
 *Joint ICTP/SISSA hep-th Journal Club (SISSA, Trieste), 14/12/26*
 
--"Link invariants in nilpotent group gauge theories"<br>
+- "Link invariants in nilpotent group gauge theories"<br>
 *High-Energy Physics Journal Club (Durham University, Durham), 19/10/26*
 
 # Previous Talks
