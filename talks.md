@@ -6,12 +6,12 @@ title: Talks
 # Upcoming Talks
 
 - *TBA*<br>
-*Joint ICTP/SISSA hep-th Journal Club (SISSA, Trieste), 14/12/26*
-
-- "Link invariants in nilpotent group gauge theories"<br>
-*High-Energy Physics Journal Club (Durham University, Durham), 19/10/26*
+*Joint ICTP/SISSA hep-th Journal Club (SISSA, Trieste), 14/12/26.*
 
 # Previous Talks
+
+- "Link invariants in nilpotent group gauge theories"<br>
+*High-Energy Physics Journal Club (Durham University, Durham), 19/10/26.*
 
 - "Topological order in the lattice: the Kitaev quantum double"<br>
 *[WIP Student Journal Club](https://www.sissa.it/tpp/activity/journalclub.php.html) (SISSA, Trieste), 12/02/26.*
