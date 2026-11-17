@@ -20,7 +20,7 @@ My research work falls into the general theme of **topological aspects of quantu
 -->
 
 
-### Link invariants in discrete and continuous nilpotent group gauge theories
+## Link invariants in discrete and continuous nilpotent group gauge theories
 
 <div class="research-item">
   
@@ -40,7 +40,7 @@ My research work falls into the general theme of **topological aspects of quantu
   
 </div>
 
-### Topological invariants of $\mathrm{SU}(2)$ Chern-Simons theory from discrete gauge theories
+## Topological invariants of $\mathrm{SU}(2)$ Chern-Simons theory from discrete gauge theories
 
 <div class="research-item">
   
