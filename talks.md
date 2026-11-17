@@ -5,8 +5,7 @@ title: Talks
 
 # Upcoming Talks
 
-- *TBA*<br>
-*Joint ICTP/SISSA hep-th Journal Club (SISSA, Trieste), 14/12/26.*
+Nothing for now.
 
 # Previous Talks
 
