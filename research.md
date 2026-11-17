@@ -15,7 +15,29 @@ My research work falls into the general theme of **topological aspects of quantu
 
 ## Research Highlights
 
-### Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories
+### Link invariants in discrete and continuous nilpotent group gauge theories
+
+<div class="research-item">
+  
+  <div class="research-text" markdown="1">
+
+  The first half of [this](https://arxiv.org/abs/2611.18237) paper investigates expectation values of links in untwisted Dijkgraaf-Witten (DW) theories with nilpotent gauge groups. The motivation is the following: abelian TQFTs are *exactly* those that do not detect the Borromean rings, and we wanted to generalize this statement. Indeed, we prove that untwisted DW theories with $n$-step nilpotent gauge groups are exactly those that detect Brunnian links with up to $n+1$ components, but no more than that. 
+
+  The second half instead deals with Chern-Simons (CS) theories with nilpotent Lie algebras. These are quite exotic since the gauge group is necessarily non-compact, so one finds a continuous spectrum of line operators, labeled by (generically) infinite-dimensional representations. The representation theory of nilpotent Lie groups is already well-known by mathematicians, so we employ this toolkit to study nilpotent CS theories in a systematic way.
+
+  Finally, the last chapter proposes a correspondence between specific kinds of nilpotent DW and CS theories that derive from the same "Lie ring", namely expectation values of line operators take a similar form in both theories. We also clarify some statements in the literature regarding the equivalence between these two kinds of theories.
+
+  *Joint work with Pavel Putrov and Thomas Nicosanti.*
+
+  </div>
+  
+  <div class="research-image">
+    <img src="{{ '/assets/images/paperpic2.png' | relative_url }}" alt="Description of the image">
+  </div>
+  
+</div>
+
+### Topological invariants of $\mathrm{SU}(2)$ Chern-Simons theory from discrete gauge theories
 
 <div class="research-item">
   
