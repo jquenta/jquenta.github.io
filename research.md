@@ -3,9 +3,12 @@ layout: default
 title: Research
 ---
 
-# Research
+# Research Highlights
 
+<!-- 
 My research work falls into the general theme of **topological aspects of quantum field theory**. On one side, there has been an increased interest to understand the mathematical structure formed by topological operators in a QFT, the latter now understood as the **generalized symmetries** of a theory. On the other side, **topological quantum field theories** naturally appear as low-energy descriptions of gapped quantum systems (both in the continuum or the lattice), and many questions about their mathematical properties remain open. My work aims to elucidate some of these mathematical aspects as they become of utmost importance in applications to high-energy and condensed-matter physics.
+
+
 
 <br>
 
@@ -13,7 +16,9 @@ My research work falls into the general theme of **topological aspects of quantu
 
 <br>
 
-## Research Highlights
+
+-->
+
 
 ### Link invariants in discrete and continuous nilpotent group gauge theories
 
