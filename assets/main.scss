@@ -110,3 +110,25 @@ order: 1;
   height: auto;
   margin: 20px auto !important;
 }
+
+/* Footer: text links row + copyright / last updated */
+
+.footer-wrapper {
+  text-align: center;
+}
+
+.footer-links {
+  margin: 0 0 6px 0 !important;
+  text-align: center !important;
+}
+
+.footer-meta {
+  margin: 0 !important;
+  font-size: 0.85em;
+  color: #828282;
+  text-align: center !important;
+}
+
+.footer-sep {
+  margin: 0 6px;
+}

@@ -1,0 +1,24 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper footer-wrapper">
+
+    <p class="footer-links">
+      {%- assign first = true -%}
+      {%- for link in site.footer_links -%}
+        {%- if link.url and link.url != "" -%}
+          {%- unless first %} <span class="footer-sep">&bull;</span> {% endunless -%}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>
+          {%- assign first = false -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </p>
+
+    <p class="footer-meta">
+      &copy; {{ site.time | date: "%Y" }} {{ site.author | escape }}
+      <span class="footer-sep">&middot;</span>
+      Last updated {{ site.time | date: "%d/%m/%Y" }}
+    </p>
+
+  </div>
+</footer>

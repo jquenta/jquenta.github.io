@@ -12,3 +12,12 @@ header_pages:
   - blog.md
   
 markdown: kramdown
+
+# Footer links (rendered by _includes/footer.html), separated by bullets.
+footer_links:
+  - name: "arXiv"
+    url: "https://arxiv.org/search/hep-th?searchtype=author&query=Quenta-Raygada,+J"
+  - name: "iNSPIRE"
+    url: "https://inspirehep.net/authors/3092430"
+  - name: "ORCID"
+    url: "https://orcid.org/0009-0001-3627-3508"
