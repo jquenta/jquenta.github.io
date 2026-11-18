@@ -14,7 +14,12 @@
 
 .about-text {
   min-width: 0;
-  font-size: 10px;
+  font-size: 15px;
+}
+
+/* Theme sets code to a fixed 15px; make it follow the surrounding text */
+.about-text code {
+  font-size: 0.9em;
 }
 
 .about-photo {
